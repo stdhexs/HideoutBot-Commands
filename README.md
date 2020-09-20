@@ -13,10 +13,13 @@
 
 -tps | Checks the TPS of the server.
 
--jd or -joindate | Shows players join date. (Down due to Captcha. Only for 9b9t.com)
+-jd | Shows players join date. (Down due to Captcha. Only for 9b9t.com)
 
--playtime or -pt | Get you or someone elses playtime.
+-pt | Get you or someone elses playtime.
 
--kd, -kills, or -deaths | Gets the KD of a player. (Only for 9b9t.com)
+-kd | Gets the KD of a player. (Only for 9b9t.com)
 
 -quote | Get a random message someone has said.
+
+-members | List the current members of Hideout.
+# Contact Kursed#9999 on Discord for further assistance.
