@@ -3,8 +3,6 @@
 
 -firstwords | First message the bot has saved from player.
 
--seen | Last time the bot has seen someone online.
-
 -firstseen | First time the bot has seen someone online.
 
 -ping | Get ping of yourself or someone else.
