@@ -1,4 +1,4 @@
-# Commands for HideoutBot
+# Commands for HideoutBot:
 -help | Shows all commands on Github.
 
 -firstwords | First message the bot has saved from player.
