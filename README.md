@@ -22,4 +22,4 @@
 -quote | Get a random message someone has said.
 
 -members | List the current members of Hideout.
-# Contact Kursed#9999 on Discord for further assistance.
+# Contact Kursed#0863 on Discord for further assistance.
